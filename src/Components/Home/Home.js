@@ -1,4 +1,5 @@
 import React from 'react';
+import { Button } from 'react-bootstrap';
 import './Home.css'
 const Home = () => {
     return (
@@ -12,6 +13,7 @@ const Home = () => {
         <h5 class="card-title">Accounting Technologies</h5>
         <h6>Price:$120</h6>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <Button className="bg-danger">Buy Now</Button>
       </div>
     </div>
   </div>
@@ -23,7 +25,7 @@ const Home = () => {
         <h6>Price:$120</h6>
         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam ipsum quis ipsum facilisis sit amet.
 
-</p>
+</p> <Button className="bg-danger">Buy Now</Button>
       </div>
     </div>
   </div>
@@ -34,7 +36,8 @@ const Home = () => {
         <h5 class="card-title">Modern Languages</h5>
         <h6>Price:$120</h6>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
-      </div>
+        <Button className="bg-danger">Buy Now</Button>
+         </div>
     </div>
   </div>
   <div class="col">
@@ -45,7 +48,7 @@ const Home = () => {
         <h6>Price:$120</h6>
         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam ipsum quis ipsum facilisis sit amet.
 
-</p>
+</p> <Button className="bg-danger">Buy Now</Button>
       </div>
     </div>
   </div>

@@ -10,7 +10,7 @@ const Services = () => {
     }, [])
     return (
         <div>
-        <h2>I have courses: {courses.length}</h2>
+        <h2>Total courses: {courses.length}</h2>
             <div className="row">
                 {
                     courses.map(course =><Course 

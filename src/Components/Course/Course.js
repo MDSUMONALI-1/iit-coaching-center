@@ -1,4 +1,5 @@
 import React from 'react';
+import { Button } from 'react-bootstrap';
 
 const Course = (props) => {
   const {img,Title} = props.course
@@ -11,6 +12,7 @@ const Course = (props) => {
      <h5 class="card-title">{Title}</h5>
         <h6>Price:$120</h6>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <Button  className="bg-danger">Buy Now</Button>
    </div>
    </div>
    </div>
