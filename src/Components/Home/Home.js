@@ -8,7 +8,7 @@ const Home = () => {
             <div class="row row-cols-1 row-cols-md-2 g-16 ">
   <div class="col">
     <div class="card">
-      <img  src="http://html.kodesolution.live/s/studypress/v6.0/demo/images/project/4.jpg" class="card-img-top" alt="..."/>
+      <img  src="https://stylemixthemes.com/masterstudy/tech/wp-content/uploads/sites/21/2020/12/29-272x161.jpg" class="card-img-top" alt="..."/>
       <div class="card-body">
         <h5 class="card-title">Accounting Technologies</h5>
         <h6>Price:$120</h6>
@@ -19,7 +19,7 @@ const Home = () => {
   </div>
   <div class="col">
     <div class="card">
-      <img src="http://html.kodesolution.live/s/studypress/v6.0/demo/images/project/6.jpg" class="card-img-top" alt="..."/>
+      <img src="https://stylemixthemes.com/masterstudy/tech/wp-content/uploads/sites/21/2020/12/19-272x161.jpg" class="card-img-top" alt="..."/>
       <div class="card-body">
         <h5 class="card-title">Modern Technologies</h5>
         <h6>Price:$120</h6>
@@ -31,7 +31,7 @@ const Home = () => {
   </div>
   <div class="col">
     <div class="card">
-      <img src="http://html.kodesolution.live/s/studypress/v6.0/demo/images/project/7.jpg" class="card-img-top" alt="..."/>
+      <img src="https://stylemixthemes.com/masterstudy/tech/wp-content/uploads/sites/21/2018/08/course-preview-272x161.jpg" class="card-img-top" alt="..."/>
       <div class="card-body">
         <h5 class="card-title">Modern Languages</h5>
         <h6>Price:$120</h6>
@@ -42,7 +42,7 @@ const Home = () => {
   </div>
   <div class="col">
     <div class="card">
-      <img src="http://html.kodesolution.live/s/studypress/v6.0/demo/images/project/8.jpg" class="card-img-top" alt="..."/>
+      <img src="https://stylemixthemes.com/masterstudy/tech/wp-content/uploads/sites/21/2018/08/photo-1461749280684-dccba630e2f6-272x161.jpeg" class="card-img-top" alt="..."/>
       <div class="card-body">
         <h5 class="card-title">Computer Technologies</h5>
         <h6>Price:$120</h6>
